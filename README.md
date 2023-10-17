@@ -4,7 +4,7 @@
 
 #### 프로젝트 개요
 1. 프로젝트 기간: 2022. 02 ~ 2022.08
-2. 개발 도구 및 개발 환경: 
+2. 개발 도구 및 개발 환경: </br>
     <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
 
 3. 참여 인원: 6인
