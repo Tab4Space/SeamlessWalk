@@ -48,5 +48,5 @@
 [Google Drive](https://drive.google.com/file/d/1dVoABTWGVv8NSFqHXiISrM31kKs8Hr3j/view?usp=drive_link)
 <br/>
 
-### 데모 영상
+### 시연 영상
 [youtube link](https://www.youtube.com/watch?v=Gw79EJMgU-4)
